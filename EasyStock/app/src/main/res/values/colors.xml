@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#66BBCC</color>
+    <color name="colorPrimaryDark">#66BBCC</color>
+    <color name="colorAccent">#66BBCC</color>
+
+    <color name="teal">#00796B</color>
+    <color name="brown">#8D6E63</color>
+    <color name="grey">#607D8B</color>
+    <color name="orange">#F57C00</color>
+    <color name="dark">#000000</color>
+
+    <color name="green">#96CC7A</color>
+    <color name="red">#EA705D</color>
+    <color name="blue">#66BBCC</color>
+</resources>
